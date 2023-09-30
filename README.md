@@ -1,3 +1,3 @@
 # INFO2180 Lab 2
 
-This is Lab 2 for <Jada-Ann Vite>
+This is Lab 2 for Jada-Ann Vite.
